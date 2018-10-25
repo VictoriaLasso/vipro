@@ -1,4 +1,5 @@
 # vipro
 proyecto personal
 
-se aplica este proyecto personal para aplicar aplicación de universidad para camaras.
+Se aplica este proyecto personal para aplicar aplicación de universidad para camaras.
+Realizar prototipo, alcance y justificación.
